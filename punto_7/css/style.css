@@ -1,0 +1,18 @@
+.p_7_nav {
+  background-color: pink;
+}
+.p_7_nav ul {
+  display: inline-flex;
+}
+.p_7_nav li {
+  padding: 12px;
+  list-style: none;
+}
+.p_7_nav li:hover {
+  background-color: blue;
+}
+.p_7_nav a {
+  color: white;
+  font-size: 22px;
+  text-decoration: none;
+}

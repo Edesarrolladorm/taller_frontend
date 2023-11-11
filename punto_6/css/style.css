@@ -1,0 +1,14 @@
+a:link {
+  justify-content: center;
+  color: blue;
+  font-weight: bold;
+}
+.rojo {
+  color: red;
+}
+h1 {
+  font: size 20px;
+  justify-content: center;
+  color: black;
+  font-weight: bold;
+}

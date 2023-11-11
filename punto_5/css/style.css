@@ -1,0 +1,26 @@
+#verde {
+  color: rgb(66, 221, 66);
+  text-decoration: underline;
+}
+#rojo {
+  color: crimson;
+}
+#sub {
+  text-decoration: underline overline;
+}
+#alto {
+  font-weight: bold;
+  font-size: 40px;
+}
+#azul {
+  color: blue;
+  font-weight: bold;
+}
+#rojosub {
+  color: crimson;
+  text-decoration: underline;
+  font-weight: bold;
+}
+* {
+  text-align: center;
+}
